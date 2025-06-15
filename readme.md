@@ -17,7 +17,7 @@ A Python script that automatically posts content to both Bluesky and Mastodon so
 ### 1. Install Python Dependencies
 
 ```bash
-pip install atproto requests beautifulsoup4 pillow Mastodon.py
+pip install -r requirements.txt
 ```
 
 ### 2. Set Up Environment Variables
